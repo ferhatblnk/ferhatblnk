@@ -37,7 +37,7 @@
 ### 🐍 Snake Game - Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ferhatblnk/ferhatblnk/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
