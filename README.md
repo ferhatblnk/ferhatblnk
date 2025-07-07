@@ -32,16 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatblnk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🐍 Snake Game - Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/ferhatblnk/ferhatblnk/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
