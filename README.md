@@ -33,20 +33,6 @@ Git, GitLab, CI/CD, Docker, Agile/Scrum, Design Patterns
 
 ---
 
-## 📂 Featured Projects
-
-### 📌 [Inventory & Order Management System](https://github.com/ferhatblnk/inventory-order-system)
-A scalable **full-stack application** for managing product inventory and orders, built with **.NET Core**, **Angular**, and **PostgreSQL**.  
-Features: role-based access, REST API integration, reporting module.
-
-### 📌 [E-Commerce Mobile App](https://github.com/ferhatblnk/ecommerce-flutter)
-A **Flutter mobile app** with **Firebase backend**, featuring authentication, shopping cart, and payment gateway integration.
-
-### 📌 [AI Document Analysis Tool](https://github.com/ferhatblnk/ai-document-analysis)
-An **AI-powered** tool using **Python** and **TensorFlow** to analyze and extract insights from PDF documents.
-
----
-
 ## 🤝 Connect with Me
 
 <p align="center">
