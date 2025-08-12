@@ -33,19 +33,17 @@ Git, GitLab, CI/CD, Docker, Agile/Scrum, Design Patterns
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferhatblnk&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📌 [Inventory & Order Management System](https://github.com/ferhatblnk/inventory-order-system)
+A scalable **full-stack application** for managing product inventory and orders, built with **.NET Core**, **Angular**, and **PostgreSQL**.  
+Features: role-based access, REST API integration, reporting module.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ferhatblnk&theme=radical" alt="GitHub Streak" />
-</p>
+### 📌 [E-Commerce Mobile App](https://github.com/ferhatblnk/ecommerce-flutter)
+A **Flutter mobile app** with **Firebase backend**, featuring authentication, shopping cart, and payment gateway integration.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferhatblnk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📌 [AI Document Analysis Tool](https://github.com/ferhatblnk/ai-document-analysis)
+An **AI-powered** tool using **Python** and **TensorFlow** to analyze and extract insights from PDF documents.
 
 ---
 
