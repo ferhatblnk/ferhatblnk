@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ferhat</h1>
-<h3 align="center">Full Stack Software Developer | C# • .NET • Angular • React • Flutter</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+and+Mobile+Apps;Full+Stack+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies&center=true&width=500&height=45">
-</p>
-
 <h1 align="center">Ferhat Bulanık</h1>
 
 <p align="center">
