@@ -104,12 +104,8 @@ to the Angular / React / Flutter clients that consume them.
 ## Stats
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferhatblnk&theme=transparent" alt="GitHub stats">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferhatblnk&theme=transparent" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ferhatblnk&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&excludeDaysLabel=8B949E" alt="Commit streak">
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=ferhatblnk&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ferhatblnk&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="Commit streak">
 </p>
 
 <br>
