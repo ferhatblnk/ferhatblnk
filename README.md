@@ -80,27 +80,36 @@ to the Angular / React / Flutter clients that consume them.
 
 ## Contribution Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake.svg">
-  <img
-    alt="Contribution graph animation"
-    src="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake.svg">
+    <img
+      alt="Contribution graph animation"
+      src="https://raw.githubusercontent.com/ferhatblnk/ferhatblnk/output/snake.svg"
+      width="100%">
+  </picture>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatblnk&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=8B949E&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days&radius=8" alt="Commit activity graph" width="100%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatblnk&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=8B949E&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days&radius=8" alt="Commit activity graph" width="100%">
+</p>
 
 <br>
 
 ## Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ferhatblnk&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub stats">
-  <img height="160" src="https://streak-stats.demolab.com?user=ferhatblnk&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="Commit streak">
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferhatblnk&theme=transparent" alt="GitHub stats">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferhatblnk&theme=transparent" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ferhatblnk&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&excludeDaysLabel=8B949E" alt="Commit streak">
 </p>
 
 <br>
