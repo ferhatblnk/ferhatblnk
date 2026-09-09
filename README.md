@@ -1,4 +1,4 @@
-<h1 align="center">Ferhat Bulanık</h1>
+<h1 align="center">Ferhat Talha Bulanık</h1>
  
 <p align="center">
   <b>Full Stack Software Developer</b>
