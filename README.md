@@ -1,7 +1,7 @@
 <h1 align="center">Ferhat Talha Bulanık</h1>
  
 <p align="center">
-  <b>Full Stack Software Developer</b>
+  <b>Senior Full Stack Developer</b>
   <br>
   <sub>C#&nbsp; ·&nbsp; .NET&nbsp; ·&nbsp; Angular&nbsp; ·&nbsp; React&nbsp; ·&nbsp; Flutter</sub>
 </p>
