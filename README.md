@@ -28,7 +28,19 @@ to the Angular / React / Flutter clients that consume them.
 - Building **REST / real-time APIs**, background job pipelines and third-party integrations
 - **Relational data modeling** and query performance work on PostgreSQL, MSSQL and MySQL
 - Cross-platform product delivery with **Angular**, **React** and **Flutter**
+- Building open-source tooling for **.NET backends** and **AI coding agents**
 - Currently studying applied **machine learning** and neural networks with Python
+
+<br>
+
+## Open Source
+
+| Project | What it does |
+| --- | --- |
+| [**SyncLane**](https://github.com/ferhatblnk/synclane) | A small .NET job scheduler for syncing data from external APIs. Every job is one PostgreSQL row: its window, its cursor, its attempts, its error. |
+| [**LogTriage**](https://github.com/ferhatblnk/logtriage) | Turns the errors in Grafana Loki logs into Jira issues: one issue per distinct error, opened automatically, never twice. |
+| [**Drydock.Testcontainers.Vault**](https://github.com/ferhatblnk/drydock-testcontainers-vault) | Vault and OpenBao module for Testcontainers for .NET. Available on [NuGet](https://www.nuget.org/packages/Drydock.Testcontainers.Vault). |
+| [**trimtab**](https://github.com/ferhatblnk/trimtab) | A Claude Code plugin that splits a task into parts and runs each part at the effort it needs. |
 
 <br>
 
