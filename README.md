@@ -108,10 +108,6 @@ to the Angular / React / Flutter clients that consume them.
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferhatblnk&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=8B949E&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days&radius=8" alt="Commit activity graph" width="100%">
-</p>
-
 <br>
 
 ## Stats
